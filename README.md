@@ -7,3 +7,4 @@ Steps to generate *.eps file
 3)Now you can see "files-figure0.ps" file in your current working directory.
 4)Copy the "ps2eps.py" and "files-figure0.ps" into a linux os folder.
 5)Open the terminial type "python ps2eps.py", a new file "files-figure0.eps" will generated in your current working directory
+6)Do the same to convert eps to jpg using "eps2jpg.py"
